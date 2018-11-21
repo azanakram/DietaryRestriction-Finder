@@ -1,0 +1,33 @@
+{
+  "results": [{
+    "formatted_address": "209 Queen St S, Mississauga, ON L5M 1L4, Canada",
+    "name": "Goodfellas Wood Oven Pizza",
+    "restriction" : ["Veggie", "Seafood"],
+    "rating": 3.9,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "11 Pearl St, Mississauga, ON L5M 1X1, Canada",
+    "name": "Stavro's Greek Restaurant & Lounge",
+    "restriction" : ["Veggie", "Seafood"],
+    "rating": 4.5,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "236 Queen St S, Mississauga, ON L5M 1L5, Canada",
+    "name": "Burger Legend",
+    "restriction" : ["Veggie", "Halal"],
+    "rating": 4.2,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "131 Queen St W, Mississauga, ON L5M 1K9, Canada",
+    "name": "Queen's Fish & Chips",
+    "restriction" : ["Seafood"],
+    "rating": 4.2,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }, {
+    "formatted_address": "251 Queen St S #1, Mississauga, ON L5M 1L7, Canada",
+    "name": "Osmow's Streetsville",
+    "restriction" : ["Veggie", "Halal"],
+    "rating": 3.3,
+    "types": ["restaurant", "food", "point_of_interest", "establishment"]
+  }]
+}
